@@ -63,7 +63,7 @@ function App() {
                 (d4 <= d3) )
               )
             {   
-                alert("CLASH"); 
+                alert("CRASH"); 
                 break;
              }
     
